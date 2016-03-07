@@ -2,39 +2,39 @@
    "wallpapers": [
       {
          "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/TWellington/polar_json/master/east_branch.jpg",
+         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
          "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/TWellington/polar_json/master/east_branch_thumb.jpg"
+         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
       },
       {
          "author": "Tom Wellington",
-         "url": "https://github.com/TWellington/polar_json/raw/master/buildings.jpg",
+         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
          "name": "Heads Up",
-         "thumbnail": "https://github.com/TWellington/polar_json/raw/master/buildings_thumb.jpg"
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
       },
       {
          "author": "Tom Wellington",
-         "url": "https://github.com/TWellington/polar_json/raw/master/flamingos.jpg",
+         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
          "name":" Flamingos",
-         "thumbnail": "https://github.com/TWellington/polar_json/raw/master/flamingos_thumb.jpg"
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
       },
       {
          "author": "Tom Wellington",
-         "url": "https://github.com/TWellington/polar_json/raw/master/forest_one.png",
+         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
          "name": "Forest",
-         "thumbnail": "https://github.com/TWellington/polar_json/raw/master/forest_one_thumb.jpg"
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
       },
       {
          "author": "Tom Wellington",
-         "url": "https://github.com/TWellington/polar_json/raw/master/tree_farm.jpg",
+         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
          "name": "Tree Farm",
-         "thumbnail": "https://github.com/TWellington/polar_json/raw/master/tree_farm_thumb.jpg"
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
       },
       {
          "author":"Tom Wellington",
-         "url":"https://github.com/TWellington/polar_json/raw/master/tree_tops.jpg",
+         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
          "name":"Tree Tops",
-         "thumbnail":"https://github.com/TWellington/polar_json/raw/master/tree_tops_thumb.jpg"
+         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
       }
    ]
 }

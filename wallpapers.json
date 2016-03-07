@@ -1,10 +1,10 @@
 {
-   "wallpapers":[
+   "wallpapers": [
       {
          "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/TWellington/polar_json/master/East%20Branch.jpg",
+         "url": "https://raw.githubusercontent.com/TWellington/polar_json/master/east_branch.jpg",
          "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/TWellington/polar_json/master/East%20Branch_thumb.jpg"
+         "thumbnail": "https://raw.githubusercontent.com/TWellington/polar_json/master/east_branch_thumb.jpg"
       },
       {
          "author": "Tom Wellington",
@@ -22,7 +22,7 @@
          "author": "Tom Wellington",
          "url": "https://github.com/TWellington/polar_json/raw/master/forest_one.png",
          "name": "Forest",
-         "thumbnail": "https://github.com/TWellington/polar_json/raw/master/flamingos_thumb.jpg"
+         "thumbnail": "https://github.com/TWellington/polar_json/raw/master/forest_one_thumb.jpg"
       },
       {
          "author": "Tom Wellington",

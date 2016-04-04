@@ -1,10 +1,9 @@
 {
    "wallpapers": [
       {
-         "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-         "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+         "author": "Heric Olier",
+         "url": "https://raw.githubusercontent.com/toroplus/polar_json/master/nekko_2.png",
+         "name": "Nekko_1"
       },
       {
          "author": "Heric Olier",
@@ -12,10 +11,9 @@
          "name": "Nekko_2"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+         "author": "Heric Olier",
+         "url": "https://raw.githubusercontent.com/toroplus/polar_json/master/nekko_3.png",
+         "name": "Nekko_3",
       },
       {
          "author": "Tom Wellington",

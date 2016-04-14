@@ -2,9 +2,14 @@
    "wallpapers": [
       {
          "author": "Heric Olier",
+         "url": "https://raw.githubusercontent.com/toroplus/polar_json/master/nekko_0.png",
+         "name": "Nekko_0"
+      },
+      {
+         "author": "Heric Olier",
          "url": "https://raw.githubusercontent.com/toroplus/polar_json/master/nekko_1.png",
          "name": "Nekko_1"
-      },
+      },      
       {
          "author": "Heric Olier",
          "url": "https://raw.githubusercontent.com/toroplus/polar_json/master/nekko_2.png",
